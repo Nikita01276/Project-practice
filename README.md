@@ -35,7 +35,9 @@
 * Реальный класс (dataset label_id): 1 
 * Предсказание модели (класс): Healthy Fish 
 * Вероятность: 0.9999
-
+## 🔗Ссылки на модель и датасет:
+* https://huggingface.co/panda992/fish_disease_datasets - Fish Disease Classifier
+* https://huggingface.co/datasets/annassdan/autotrain-data-fish-classification - Fish dadaset
 
 
 
